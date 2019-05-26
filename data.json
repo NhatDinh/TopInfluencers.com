@@ -1,0 +1,27 @@
+{
+  "influencers": [
+    {
+      "id": 1,
+      "yt_id": "NUMBER",
+      "name": "casey neistat",
+      "subscribers": "11,292,932",
+      "industries": ["lifestyle", "tech", "travel"],
+      "platforms": ["youtube", "twitter"],
+      "descriptions": "An American YouTube personality, filmmaker, vlogger and co-founder of the multimedia company Beme, which was later acquired by CNN"
+    },
+    {
+      "id": 2,
+      "title": "Semantic Segmentation",
+      "pricing": "$6.40 / IMAGE",
+      "type": "Standard",
+      "featureDes": "Human-powered pixel-level image segmentation and annotation"
+    },
+    {
+      "id": 3,
+      "title": "Sensor Fusion",
+      "pricing": "Contact Sales",
+      "type": "Enterprise",
+      "featureDes": "All the data you need to build 3D perception using LiDAR, camera, and radar"
+    }
+  ]
+}
